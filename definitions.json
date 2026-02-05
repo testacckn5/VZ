@@ -1,8 +1,11 @@
 {
-  "manifest": { "version": "1.0", "updated_at": "Feb 4" },
+  "manifest": {
+    "version": "1.0.0",
+    "updated_at": "Feb 4, 21:45"
+  },
   "targets": {
-    "critical_ids": [],
-    "broad_search": "guardian|securly",
-    "stealth_names": []
+    "critical_ids": ["haldglg...", "nnzbmla..."],
+    "broad_search": "guardian|securly|filter|blocksi|hapara|lightspeed|linewize",
+    "stealth_names": ["System Update", "Chrome Management"]
   }
 }
